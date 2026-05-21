@@ -40,19 +40,10 @@
 
 ---
 
-### 📊 Estadísticas de GitHub / GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvannnV&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvannnV&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Conectemos / Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario) *(Copia tu enlace aquí)*
-- 📧 **Email:** tu.email@email.com *(Coloca tu correo aquí)*
+- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/ivan-vargas-b4610736)
+- 📧 **Email:** vargasivannn@gmail.com
 
 ---
 🎨 *Diseñado con la combinación perfecta de lógica, datos y café.*
