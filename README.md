@@ -42,7 +42,7 @@
 
 ### 📫 Conectemos / Connect with me
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/ivan-vargas-b4610736)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ivan-vargas-b46107366/
 - 📧 **Email:** vargasivannn@gmail.com
 
 ---
