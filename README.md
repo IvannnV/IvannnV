@@ -44,6 +44,4 @@
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ivannn-vargasss
 - 📧 **Email:** vargasivannn@gmail.com
-
----
-🎨 *Diseñado con la combinación perfecta de lógica, datos y café.*
+- **Instagram:** https://www.instagram.com/devx.ivan?igsh=dTIxenY4cWRod3hh&utm_source=qr
